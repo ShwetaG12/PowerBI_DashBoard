@@ -3,7 +3,8 @@ Problem statement
 
 This dashboard helps Amazon understand the Sales. It is Amazon Sales Analytics Dashboard where carefully analyzing the data and identifying key trends and patterns, can uncover valuable insights and address specific challenges to improve business performance.
 
-Steps: 1.Create an Excel formula to give values "Delay" if the difference of dates in cell C2 and B2 in days is greater than 4, otherwise the value should be "On time".
+Steps: 
+1.Create an Excel formula to give values "Delay" if the difference of dates in cell C2 and B2 in days is greater than 4, otherwise the value should be "On time".
 
 Solution:
 
